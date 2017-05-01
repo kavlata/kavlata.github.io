@@ -1,1 +1,13 @@
+#Site settings
+title: Kavita Ganeshan Home Page
+email: kavlata@gmail.com
+description: >
+ My portfolio on NLP and ML work
+twitter_username: kavlata
+github_username: kavlata
+
+#config options
+markdown: kramdown
+permalink: /posts/:title/
+
 theme: jekyll-theme-midnight
