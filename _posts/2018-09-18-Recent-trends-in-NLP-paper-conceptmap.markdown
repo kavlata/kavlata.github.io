@@ -9,3 +9,6 @@ redirect_from: "/writing/Recent-trends-concept/"
 This is my interpretation of the paper "Recent trends in Deep learning based NLP". I have tried to represent the thoughts of this paper
 in the form of a conceptmap. It definitely helps me to remember a paper when I see the concepts visually. Hope it helps. 
 Thanks to the original authors for writing this paper.
+<p align="center">
+<img src="/assets/Images/trends/trendsIntro.png" alt="tab_contents">
+</p>
