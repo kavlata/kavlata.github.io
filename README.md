@@ -1,10 +1,10 @@
 ## Kavita Ganeshan
 
-I am a Senior Data Scientist at Cuddle.ai / Fractal Analytics Pvt Ltd.
+I am a AI Research Scientist at Accenture AI Labs, India.
 
-I work on NLP & Machine learning. 
+I work on representation learning for NLP. 
 
-I am also a mom of a 3 year old and love drawing analogies between him and the way machines learn.
+I am a mom of a 4 year old and love drawing analogies between my son and the way machines learn.
 
 ### Support or Contact
 Contact me at kavlata@gmail.com for any of your queries
