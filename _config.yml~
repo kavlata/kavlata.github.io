@@ -163,4 +163,17 @@ social:
     desc: Share to Hacker News
     share: false
 
+# Social sharing protocols
+# These are for automatically generating sharing metadata for FB and Twitter
+# OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
+protocols:
+    fb_image: "/assets/nr-logo.jpg"
+    fb_image_width: 612
+    fb_image_height: 605
+    fb_image_type: "image/jpg"
 
+    twitter_image: "/assets/nr-logo.jpg"
+
+    os_repo: "https://github.com/nikhita/nikhita.github.io"
+    os_rcs_type: "git"
+    os_src: "git@github.com:nikhita.github.io.git"
