@@ -18,7 +18,7 @@ Major Topics that I need to work on:
 2. Math - Linear Algebra, Probability, Statistics
 3. NLP - Linguistics, Statistical NLP, Deep NLP
 4. Data Science - Pandas
-5. MOOC - Andrew Ng, Stanford NLP, Oxford Deep Mind Lectures
+5. MOOC - Andrew Ng, Stanford NLP, Oxford Deep Mind Lectures, EdX, Fast.ai
 Reference - Jason Brownlee, Dan Jurafsky Speech & Language Processing book, Cracking the coding interview
 
 I am going to give myself about 8 months to finish my own curriculum and the test is I come up with my own Project implementation of 
@@ -45,14 +45,15 @@ I will be updating this list as and when I find something new to add to the list
 4. Statistics:
    1. Definitions, Metrics
    1. correlation
+   1. Distributions
 5. Statistical NLP:
    1. Vectorizer / Transformer - Scikit Learn
    1. HMM
    1. CRF
-   1. Topic Modelling
+   1. Topic Modelling - LDA
    1. Sequence labelling
    1. Feature selection
-   1. Dimensionality reduction
+   1. Dimensionality reduction - PCA, ICA
 6. Deep NLP:
    1. Word2vec - CBOW/ Skip gram
    1. Representation Learning
@@ -60,6 +61,7 @@ I will be updating this list as and when I find something new to add to the list
    1. RNN for text
    1. Attention model for text
    1. Pytorch for text
+   1. BERT / Transformers - hugging face
 7. Linguistics:
    1. Discourse Segmentation
 8. Pandas:
@@ -68,5 +70,6 @@ I will be updating this list as and when I find something new to add to the list
    1. Andrew Ng - CNN
    1. Stanford NLP - Richard Socher
    1. Oxford
+   1. Fast.ai - Rachel Thomas
    
 
