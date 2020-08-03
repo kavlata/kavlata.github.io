@@ -17,4 +17,5 @@ Here are some of the links that might be useful for semantic search engine relat
     * https://stackoverflow.com/questions/42781292/doc2vec-get-most-similar-documents
     * https://kanoki.org/2019/03/07/sentence-similarity-in-python-using-doc2vec/
 7.  People I follow for this topic
+    * [Goku Mohandas](https://madewithml.com/projects/2025/haystack-neural-question-answering-at-scale/)
     * [Pratik Bhavsar](https://www.pratik.ai/)
