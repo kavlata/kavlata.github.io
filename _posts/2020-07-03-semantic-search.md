@@ -4,7 +4,7 @@
 1.	Important KEYWORD EXTRACTOR 
       * [Extractor-Github-link](https://github.com/ibatra/BERT-Keyword-Extractor)
       * [Extractor-Github-link](https://github.com/ibatra/BERT-Keyword-Extractor/blob/master/BERT-Keyword%20Extractor.ipynb)
-      * [Unsupervised Approach for Automatic Keyword Extraction using Text Features.] (https://github.com/LIAAD/yake)
+      * [Unsupervised Approach for Automatic Keyword Extraction using Text Features.](https://github.com/LIAAD/yake)
       * [YAKE](http://yake.inesctec.pt/)
 2.	[Abbreviations expansion](https://medium.com/swlh/a-machine-learning-model-to-understand-fancy-abbreviations-trained-on-tolkien-36601b73ecbb)
 3.	Building dictionary / vocabulary  
@@ -18,7 +18,7 @@
 5.	[Providing reverse dictionary](https://tomassetti.me/creating-a-reverse-dictionary/)
       * [Github-link](https://github.com/gabriele-tomassetti/reverse-dictionary)
 6.	Semantic Search 
-      * [using BERT] (https://medium.com/@evergreenllc2020/semantic-search-engine-with-s-abbfb3cd9377)
+      * [using BERT](https://medium.com/@evergreenllc2020/semantic-search-engine-with-s-abbfb3cd9377)
       * [Simaese BERT for Search](https://towardsdatascience.com/quick-semantic-search-using-siamese-bert-networks-1052e7b4df1)
       * [Semantic Search using FAISS- Facebook Index ](https://www.kaggle.com/narasimha1997/faster-semantic-search-using-faiss/output)
       * [Semantic Search using embeddings](https://medium.com/analytics-vidhya/building-a-simple-stack-overflow-search-engine-to-predict-posts-related-to-given-query-post-56b3e508520c)
