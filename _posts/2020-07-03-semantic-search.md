@@ -1,3 +1,44 @@
+## Interesting problems 
+###### Semantic Search in Unstructured documents
+
+1.	Important KEYWORD EXTRACTOR 
+      * https://github.com/ibatra/BERT-Keyword-Extractor
+      * https://github.com/ibatra/BERT-Keyword-Extractor/blob/master/BERT-Keyword%20Extractor.ipynb
+      * Unsupervised Approach for Automatic Keyword Extraction using Text Features.
+            1. https://github.com/LIAAD/yake
+            1. http://yake.inesctec.pt/
+2.	Abbreviations expansion
+      * https://medium.com/swlh/a-machine-learning-model-to-understand-fancy-abbreviations-trained-on-tolkien-36601b73ecbb
+3.	Building dictionary / vocabulary  
+      * single words  
+            1. Using our custom built word2vec using GENSIM + Spacy
+            1. https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html#sphx-glr-auto-examples-tutorials-run-word2vec-py
+            1. https://spacy.io/usage/vectors-similarity
+      * learn phrases
+            1. https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf
+            1. http://kavita-ganesan.com/how-to-incorporate-phrases-into-word2vec-a-text-mining-approach/relatedposts_hit=1&relatedposts_origin=1229&relatedposts_position=2#.XuDIuvkzY2x
+4.	Policy Number Extraction using BiLSTM-CRF
+      * https://nbviewer.jupyter.org/github/amaiya/ktrain/blob/master/tutorials/tutorial-06-sequence-tagging.ipynb
+5.	Providing reverse dictionary
+      * https://tomassetti.me/creating-a-reverse-dictionary/
+      * https://github.com/gabriele-tomassetti/reverse-dictionary
+6.	Semantic Search 
+      * using BERT
+            1. https://medium.com/@evergreenllc2020/semantic-search-engine-with-s-abbfb3cd9377
+            1. https://towardsdatascience.com/quick-semantic-search-using-siamese-bert-networks-1052e7b4df1
+      * Semantic Search using FAISS ( Facebook Index )
+            1. https://www.kaggle.com/narasimha1997/faster-semantic-search-using-faiss/output
+      * Semantic Search using embeddings
+            1. https://medium.com/analytics-vidhya/building-a-simple-stack-overflow-search-engine-to-predict-posts-related-to-given-query-post-56b3e508520c
+7.	Text generation for suggesting keyword queries
+8.	Visual search engine [ Innovative ]
+      * https://medium.com/gsi-technology/integrating-textual-and-visual-information-into-a-powerful-visual-search-engine-c477486a18ff
+9.	NBoost for elasticsearch 
+      * https://github.com/koursaros-ai/nboost
+      * https://medium.com/koursaros-ai/boost-search-api-performance-e-g-410868e82b22
+      * https://towardsdatascience.com/how-we-built-an-ai-powered-search-engine-without-being-google-5ad93e5a8591
+
+
 ## Links that were useful while working on Semantic Search
 
 Here are some of the links that might be useful for semantic search engine related work.
