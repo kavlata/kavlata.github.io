@@ -10,7 +10,7 @@ permalink: /about/
 Hi. I am Kavita Ganeshan. I love text and enjoy working on NLP and DL.
 
 I have worked in a few startups before joining an established company.
-I have a 4 year old bubbly son who helps me appreciate human learning capability.
+I have an 8 year old son who helps me appreciate human learning capability.
 
 <div align="center">
 <p>
