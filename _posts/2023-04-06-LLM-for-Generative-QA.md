@@ -19,3 +19,4 @@ This is a fast moving topic and hence the code I wrote or the articles might get
     1. Connect data to LLMs - LLamaIndex  
     1. Models to try from HuggingFace - Google Flan T5 - XXL, Facebook Blenderbot 1B distill, Facebook Opt 66B, BigScience Bloom 560m
     1. To demo a quick version - Gradio, Streamlit 
+    1. To learn more prompt templates - James Briggs [playlist](https://www.youtube.com/watch?v=RflBcK0oDH0&t=514s)
